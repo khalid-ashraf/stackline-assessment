@@ -1,0 +1,7 @@
+export const GET_SALES = {
+  START_FETCH: 'GET_SALES_START_FETCH',
+  FAIL: 'GET_SALES_FAIL',
+  FINISH_FETCH: 'GET_SALES_FINISH_FETCH',
+};
+
+export default GET_SALES;
